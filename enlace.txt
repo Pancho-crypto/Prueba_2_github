@@ -1,0 +1,2 @@
+origin	https://github.com/Pancho-crypto/Prueba_2_github.git (fetch)
+origin	https://github.com/Pancho-crypto/Prueba_2_github.git (push)
